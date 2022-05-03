@@ -4,7 +4,7 @@ def hello():
 
 def bye():
     print("bye")
-    poda baaaadu
+ 
 
 
 print(hello())
