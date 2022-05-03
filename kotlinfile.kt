@@ -8,7 +8,7 @@ fun main(args: Array<String>) {
     print("Enter a number: ")
 
     // nextInt() reads the next integer from the keyboard
-    var integer:Int = reader.nextInt()
+    var integer: Int = reader.nextInt()
 
     // println() prints the following line to the output screen
     println("You entered: $integer")
