@@ -4,8 +4,7 @@ def hello():
 
 def bye():
     print("bye")
-    hybah
- 
+    
 
 
 print(hello())
